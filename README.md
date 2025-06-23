@@ -32,7 +32,8 @@
 ---
 
 ## 📸 Screenshot
-![Dashboard de Produção e Qualidade](![dados-produçao-qualidade](https://github.com/user-attachments/assets/245c51f6-58c4-41a0-a9ca-c8aff91a3e91)
+![Dashboard de Produção e Qualidade](![dados-produçao-qualidade](https://github.com/user-attachments/assets/86508be4-4ace-4c4b-937b-1af87155636c)
+)
 )
 
 ---
